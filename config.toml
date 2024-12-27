@@ -1,7 +1,7 @@
-baseURL = "https://FolcloreX.github.io/hugo-in-action/"
+baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Acme Corporation"
-theme = "Eclectic"
+theme = "Universal"
 
 [menu]
 
@@ -20,6 +20,10 @@ theme = "Eclectic"
 [params]
 color = "#4f46e5"
 copyright = "Copyright &copy; 2022 Acme Corporation. All Rights Reserved."
+style = "green"
+logo = "image/logo.png"
+logo_small = "image/logo.png"
+about_us = "Acme Corporation is the world's leading manufacturer of digital shapes. From squares and circles to triangles and hexagons, we have it all. Browse through our collection of various forms with different thicknesses and line styles. We shape the world. You live in it."
 
   [[author]]
   facebook = "https://facebook.com/example"
@@ -29,6 +33,9 @@ copyright = "Copyright &copy; 2022 Acme Corporation. All Rights Reserved."
   location = "New York"
   phone = "(999) 999-9999"
   hours = "**Mon-Fri:** 9:00AM - 6:00PM, ET"
+
+  [params.recent_posts]
+  enable = true
 
   [[params.footer]]
   title = "About"
