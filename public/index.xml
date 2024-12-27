@@ -2,12 +2,12 @@
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Acme Corporation</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/hugo-in-action/</link>
     <description>Recent content on Acme Corporation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/hugo-in-action/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
