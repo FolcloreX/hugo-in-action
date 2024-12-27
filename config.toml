@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://FolcloreX.github.io/hugo-in-action/"
 languageCode = "en-us"
 title = "Acme Corporation"
 theme = "Eclectic"
